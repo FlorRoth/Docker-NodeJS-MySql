@@ -1,4 +1,6 @@
-# Template: Docker Compose with Nodejs and MySQL
+# Docker Compose with Nodejs and MySQL
+Template to start a project with Docker, Node js and MySQL
+
 
 ## Requirements
  - Docker compose installed
